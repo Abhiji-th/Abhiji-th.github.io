@@ -3276,7 +3276,7 @@ input, select, textarea {
       animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
     }
     .bar .progress-line.py span{
-      width: 25%;
+      width: 50%;
     }
     .bar .progress-line.ml span{
       width: 50%;
@@ -3341,7 +3341,7 @@ input, select, textarea {
       }
     }
     .progress-line.py span::after{
-      content: "25%";
+      content: "50%";
     }
     .progress-line.ml span::after{
       content: "50%";
